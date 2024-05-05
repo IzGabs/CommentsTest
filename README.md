@@ -14,4 +14,15 @@ a list of sub-comments.
 - Have a way to add comments to any level
 
 
+IMPORTANT: 
+
+I left some comments in memory to be used. I believe that some improvements can be done, like dependency injection using a package like GetIt or similiar. 
+
+All breadcrumbs and navigation are done. 
+I used BLoC to do the State Management.
+
+I couldn't come up with a solution to the nested comments and adding a new item. I do believe it can be achieved by using document references but I don't know if it's the best approach.
+
+I'd like to thank bradley for the opportunity. 
+
 
