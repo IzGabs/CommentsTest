@@ -1,0 +1,27 @@
+name: dev_test_1
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.2.3 <4.0.0"
+
+dependencies:
+  shared_preferences: ^2.2.3
+  flutter_bloc: ^8.1.5
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  mocktail: ^1.0.3
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Outfit
+      fonts:
+        - asset: assets/fonts/Outfit-VariableFont_wght.ttf
